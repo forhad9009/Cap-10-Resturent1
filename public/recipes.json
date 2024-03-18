@@ -1,0 +1,57 @@
+[
+    {
+      "recipe_image": "https://i.ibb.co/9ngJjJJ/brooke-lark-j-UPOXXRNdc-A-unsplash.jpg",
+      "recipe_id": "R001",
+      "recipe_name": "Spicy Beef Tacos",
+      "short_description": "A zesty Tex-Mex delight, perfect for taco night!",
+      "ingredients": ["1 lb ground beef", "1 packet taco seasoning", "1 cup shredded lettuce", "1 cup diced tomatoes", "1/2 cup shredded cheddar cheese", "8 taco shells", "Sour cream and salsa for topping"],
+      "preparing_time": "30 minutes",
+      "calories": "350 calories"
+    },
+    {
+      "recipe_image": "https://i.ibb.co/9Vp4hQ2/micheile-henderson-d17-R6-LFLge-I-unsplash.jpg",
+      "recipe_id": "R002",
+      "recipe_name": "Creamy Garlic Pasta",
+      "short_description": "A comforting pasta dish with a creamy garlic sauce.",
+      "ingredients": ["8 oz spaghetti", "4 cloves garlic, minced", "1 cup heavy cream", "1/2 cup grated Parmesan cheese", "2 tablespoons butter", "Salt and pepper to taste", "Chopped parsley for garnish"],
+      "preparing_time": "25 minutes",
+      "calories": "400 calories"
+    },
+    {
+      "recipe_image": "https://i.ibb.co/JtKw132/s-o-c-i-a-l-c-u-t-hwy3-W3q-Fjg-M-unsplash.jpg",
+      "recipe_id": "R003",
+      "recipe_name": "Honey Glazed Salmon",
+      "short_description": "Deliciously sweet and savory salmon fillets.",
+      "ingredients": ["4 salmon fillets", "1/4 cup honey", "2 tablespoons soy sauce", "1 tablespoon olive oil", "2 cloves garlic, minced", "1 teaspoon grated ginger", "Sesame seeds for garnish"],
+      "preparing_time": "20 minutes",
+      "calories": "300 calories"
+    },
+    {
+      "recipe_image": "https://i.ibb.co/kmnV8d5/nordwood-themes-p-YWrd-KO5ks-I-unsplash.jpg",
+      "recipe_id": "R004",
+      "recipe_name": "Vegetarian Chickpea Curry",
+      "short_description": "A hearty and flavorful curry with chickpeas and vegetables.",
+      "ingredients": ["1 can chickpeas, drained and rinsed", "1 onion, chopped", "2 cloves garlic, minced", "1 bell pepper, diced", "1 zucchini, diced", "1 can coconut milk", "2 tablespoons curry powder", "Salt and pepper to taste", "Cooked rice for serving"],
+      "preparing_time": "35 minutes",
+      "calories": "320 calories"
+    },
+    {
+      "recipe_image": "https://i.ibb.co/Vq88fV1/todd-quackenbush-x5-SRhk-Fajr-A-unsplash.jpg",
+      "recipe_id": "R005",
+      "recipe_name": "Caprese Salad",
+      "short_description": "A simple and elegant salad showcasing fresh tomatoes, mozzarella, and basil.",
+      "ingredients": ["2 large tomatoes, sliced", "8 oz fresh mozzarella cheese, sliced", "1/4 cup fresh basil leaves", "2 tablespoons balsamic glaze", "2 tablespoons olive oil", "Salt and pepper to taste"],
+      "preparing_time": "15 minutes",
+      "calories": "250 calories"
+    },
+    {
+      "recipe_image": "https://i.ibb.co/Mcv1b2B/julius-9zy3-Ga-H8-NKM-unsplash.jpg",
+      "recipe_id": "R006",
+      "recipe_name": "BBQ Pulled Pork Sandwiches",
+      "short_description": "Tender pulled pork smothered in tangy BBQ sauce, served on a soft bun.",
+      "ingredients": ["2 lbs pork shoulder, trimmed", "1 cup BBQ sauce", "1/2 cup chicken broth", "1 onion, sliced", "4 sandwich buns", "Coleslaw for topping"],
+      "preparing_time": "20 minutes",
+      "calories": "450 calories"
+    }
+  ]
+  
