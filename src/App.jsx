@@ -72,7 +72,7 @@ function App() {
               <div className="recipe-info">
                 {
                  cart.map((item, index)=>(
-                  <div className='flex justify-between items-center'>
+                  <div key={item} className='flex justify-between items-center'>
                     <p>{index + 1}</p>
                     <h5>{item.recipe_name}</h5>
                 <h5>{item.preparing_time}</h5>
